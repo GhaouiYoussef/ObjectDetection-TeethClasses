@@ -1,0 +1,5 @@
+VARIABLENAME,VARIABLE DESCRIPTION
+ID,Unique ID for each IMAGE
+Class,is the particular bounding box tooth classification in FDI numeration format i.e 36/31/41/12..
+Confidence score,each object detector model gives the confidence score of each bounding box predicted in an image
+"(ymin, xmin, ymax, xmax)",(<left> <top> <right> <bottom> ): The values of the bounding box as per the PASCAL implementation
